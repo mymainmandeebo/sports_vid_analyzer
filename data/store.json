@@ -1,0 +1,553 @@
+{
+  "users": [
+    {
+      "id": "usr_34fa9f",
+      "username": "deebo",
+      "password_hash": "$2b$12$bLZg6j569G8znaaNsmgWXuC/KryHaKoadNu/4KZuHkZogBZlHuMHC",
+      "role": "admin",
+      "project_ids": [
+        "*"
+      ]
+    },
+    {
+      "id": "usr_65aecd",
+      "username": "wyllie",
+      "password_hash": "$2b$12$vK9Bgt53KdTTtn7Q44NoiOOus51SJq7POzogbGHY48EiIhei3Q2eG",
+      "role": "viewer",
+      "player_name": null,
+      "project_ids": [
+        "proj_c7e814"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj_c7e814",
+      "name": "DSPvUnitedScholars",
+      "description": "Lost 50-16",
+      "roster_name": "DSP2033",
+      "video_filename": "proj_c7e814_1a5at60o.mp4",
+      "video_original_name": "DSP2033vUnitedScholars_09192026.mp4",
+      "opponent": "UnitedScholars",
+      "game_date": "2026-09-20",
+      "league": "Metro"
+    },
+    {
+      "id": "proj_96de45",
+      "name": "DSP vs Knight Krawlers",
+      "opponent": "Knight Krawlers",
+      "game_date": "2026-09-27",
+      "league": "Metro",
+      "description": "",
+      "roster_name": "DSP2033",
+      "video_filename": "proj_96de45_tmljb0bq.mp4",
+      "video_original_name": "Pxl 20260927 165958725.mp4"
+    }
+  ],
+  "clips": [
+    {
+      "id": "144a6f5b",
+      "project_id": "proj_96de45",
+      "project_name": "DSP vs Knight Krawlers",
+      "filename": "clip_Aaron_Mitch_Turnover_Shot_Made_144a6f5b.mp4",
+      "url": "/media/clips/clip_Aaron_Mitch_Turnover_Shot_Made_144a6f5b.mp4",
+      "categories": [
+        "Turnover",
+        "Shot Made"
+      ],
+      "category": "Turnover",
+      "players": [
+        "Aaron",
+        "Mitch"
+      ],
+      "player": "Aaron",
+      "notes": "Event at 09:53.13",
+      "start_time": 583.14,
+      "end_time": 596.14,
+      "duration": 13.0,
+      "created_by": "deebo"
+    },
+    {
+      "id": "15c9c7a3",
+      "project_id": "proj_c7e814",
+      "project_name": "DSPvUnitedScholars",
+      "filename": "clip_Kiante_Turnover_15c9c7a3.mp4",
+      "url": "/media/clips/clip_Kiante_Turnover_15c9c7a3.mp4",
+      "categories": [
+        "Turnover"
+      ],
+      "category": "Turnover",
+      "player": "Kiante",
+      "notes": "Event at 05:22.88",
+      "start_time": 315.89,
+      "end_time": 324.89,
+      "duration": 9.0,
+      "created_by": "deebo",
+      "players": [
+        "Kiante"
+      ]
+    },
+    {
+      "id": "7eefdff7",
+      "project_id": "proj_c7e814",
+      "project_name": "DSPvUnitedScholars",
+      "filename": "clip_Chase_H_Turnover_7eefdff7.mp4",
+      "url": "/media/clips/clip_Chase_H_Turnover_7eefdff7.mp4",
+      "categories": [
+        "Turnover"
+      ],
+      "category": "Turnover",
+      "player": "Chase H",
+      "notes": "Event at 40:26.73",
+      "start_time": 2419.73,
+      "end_time": 2428.73,
+      "duration": 9.0,
+      "created_by": "deebo",
+      "players": [
+        "Chase H"
+      ]
+    },
+    {
+      "id": "2e43addb",
+      "project_id": "proj_c7e814",
+      "project_name": "DSPvUnitedScholars",
+      "filename": "clip_Keaghn_Turnover_2e43addb.mp4",
+      "url": "/media/clips/clip_Keaghn_Turnover_2e43addb.mp4",
+      "categories": [
+        "Turnover"
+      ],
+      "category": "Turnover",
+      "player": "Keaghn",
+      "notes": "Event at 27:44.76",
+      "start_time": 1657.76,
+      "end_time": 1666.76,
+      "duration": 9.0,
+      "created_by": "deebo",
+      "players": [
+        "Keaghn"
+      ]
+    },
+    {
+      "id": "1d7a2f6c",
+      "project_id": "proj_c7e814",
+      "project_name": "DSPvUnitedScholars",
+      "filename": "clip_Keaghn_Shot_Missed_1d7a2f6c.mp4",
+      "url": "/media/clips/clip_Keaghn_Shot_Missed_1d7a2f6c.mp4",
+      "categories": [
+        "Shot Missed"
+      ],
+      "category": "Shot Missed",
+      "player": "Keaghn",
+      "notes": "Event at 28:47.87",
+      "start_time": 1720.88,
+      "end_time": 1729.88,
+      "duration": 9.0,
+      "created_by": "deebo",
+      "players": [
+        "Keaghn"
+      ]
+    },
+    {
+      "id": "0f4d0f66",
+      "project_id": "proj_c7e814",
+      "project_name": "DSPvUnitedScholars",
+      "filename": "clip_Chase_H_Turnover_0f4d0f66.mp4",
+      "url": "/media/clips/clip_Chase_H_Turnover_0f4d0f66.mp4",
+      "categories": [
+        "Turnover"
+      ],
+      "category": "Turnover",
+      "player": "Chase H",
+      "notes": "Event at 30:16.87",
+      "start_time": 1809.87,
+      "end_time": 1818.87,
+      "duration": 9.0,
+      "created_by": "deebo",
+      "players": [
+        "Chase H"
+      ]
+    },
+    {
+      "id": "95e97494",
+      "project_id": "proj_c7e814",
+      "project_name": "DSPvUnitedScholars",
+      "filename": "clip_Chase_H_Turnover_95e97494.mp4",
+      "url": "/media/clips/clip_Chase_H_Turnover_95e97494.mp4",
+      "categories": [
+        "Turnover"
+      ],
+      "category": "Turnover",
+      "player": "Chase H",
+      "notes": "Event at 31:02.20",
+      "start_time": 1855.2,
+      "end_time": 1864.2,
+      "duration": 9.0,
+      "created_by": "deebo",
+      "players": [
+        "Chase H"
+      ]
+    },
+    {
+      "id": "a0b8e8bb",
+      "project_id": "proj_c7e814",
+      "project_name": "DSPvUnitedScholars",
+      "filename": "clip_Team_Defensive_Miscue_a0b8e8bb.mp4",
+      "url": "/media/clips/clip_Team_Defensive_Miscue_a0b8e8bb.mp4",
+      "categories": [
+        "Defensive Miscue"
+      ],
+      "category": "Defensive Miscue",
+      "player": "Unassigned / Team Play",
+      "notes": "Event at 30:51.54",
+      "start_time": 1844.54,
+      "end_time": 1853.54,
+      "duration": 9.0,
+      "created_by": "deebo",
+      "players": [
+        "Unassigned / Team Play"
+      ]
+    },
+    {
+      "id": "ce672a85",
+      "project_id": "proj_c7e814",
+      "project_name": "DSPvUnitedScholars",
+      "filename": "clip_Kiante_Shot_Missed_ce672a85.mp4",
+      "url": "/media/clips/clip_Kiante_Shot_Missed_ce672a85.mp4",
+      "categories": [
+        "Shot Missed"
+      ],
+      "category": "Shot Missed",
+      "player": "Kiante",
+      "notes": "Event at 14:09.61",
+      "start_time": 842.61,
+      "end_time": 851.61,
+      "duration": 9.0,
+      "created_by": "deebo",
+      "players": [
+        "Kiante"
+      ]
+    },
+    {
+      "id": "ab2a5f77",
+      "project_id": "proj_c7e814",
+      "project_name": "DSPvUnitedScholars",
+      "filename": "clip_Aaron_Shot_Missed_ab2a5f77.mp4",
+      "url": "/media/clips/clip_Aaron_Shot_Missed_ab2a5f77.mp4",
+      "category": "Shot Missed",
+      "player": "Aaron",
+      "notes": "Event at 22:31.34",
+      "start_time": 1344.35,
+      "end_time": 1353.35,
+      "duration": 9.0,
+      "created_by": "deebo",
+      "categories": [
+        "Shot Missed"
+      ],
+      "players": [
+        "Aaron"
+      ]
+    },
+    {
+      "id": "3caf0467",
+      "project_id": "proj_c7e814",
+      "project_name": "DSPvUnitedScholars",
+      "filename": "clip_Keaghn_Shot_Made_3caf0467.mp4",
+      "url": "/media/clips/clip_Keaghn_Shot_Made_3caf0467.mp4",
+      "category": "Shot Made",
+      "player": "Keaghn",
+      "notes": "Event at 22:06.81",
+      "start_time": 1319.82,
+      "end_time": 1328.82,
+      "duration": 9.0,
+      "created_by": "deebo",
+      "categories": [
+        "Shot Made"
+      ],
+      "players": [
+        "Keaghn"
+      ]
+    },
+    {
+      "id": "dcf32714",
+      "project_id": "proj_c7e814",
+      "project_name": "DSPvUnitedScholars",
+      "filename": "clip_Ray_Shot_Missed_dcf32714.mp4",
+      "url": "/media/clips/clip_Ray_Shot_Missed_dcf32714.mp4",
+      "category": "Shot Missed",
+      "player": "Ray",
+      "notes": "Event at 25:22.73",
+      "start_time": 1512.73,
+      "end_time": 1525.73,
+      "duration": 13.0,
+      "created_by": "deebo",
+      "categories": [
+        "Shot Missed"
+      ],
+      "players": [
+        "Ray"
+      ]
+    },
+    {
+      "id": "e99056ce",
+      "project_id": "proj_c7e814",
+      "project_name": "DSPvUnitedScholars",
+      "filename": "clip_Kiante_Turnover_e99056ce.mp4",
+      "url": "/media/clips/clip_Kiante_Turnover_e99056ce.mp4",
+      "category": "Turnover",
+      "player": "Kiante",
+      "notes": "Event at 07:57.64",
+      "start_time": 467.65,
+      "end_time": 480.65,
+      "duration": 13.0,
+      "created_by": "deebo",
+      "categories": [
+        "Turnover"
+      ],
+      "players": [
+        "Kiante"
+      ]
+    },
+    {
+      "id": "5384936d",
+      "project_id": "proj_c7e814",
+      "project_name": "DSPvUnitedScholars",
+      "filename": "clip_Ray_Steal_5384936d.mp4",
+      "url": "/media/clips/clip_Ray_Steal_5384936d.mp4",
+      "category": "Steal",
+      "player": "Ray",
+      "notes": "Event at 07:53.52",
+      "start_time": 463.52,
+      "end_time": 476.52,
+      "duration": 13.0,
+      "created_by": "deebo",
+      "categories": [
+        "Steal"
+      ],
+      "players": [
+        "Ray"
+      ]
+    },
+    {
+      "id": "53da0a0a",
+      "project_id": "proj_c7e814",
+      "project_name": "DSPvUnitedScholars",
+      "filename": "clip_Chase_H_Turnover_53da0a0a.mp4",
+      "url": "/media/clips/clip_Chase_H_Turnover_53da0a0a.mp4",
+      "category": "Turnover",
+      "player": "Chase H",
+      "notes": "Event at 07:48.98",
+      "start_time": 458.98,
+      "end_time": 471.98,
+      "duration": 13.0,
+      "created_by": "deebo",
+      "categories": [
+        "Turnover"
+      ],
+      "players": [
+        "Chase H"
+      ]
+    },
+    {
+      "id": "73e9e955",
+      "project_id": "proj_c7e814",
+      "project_name": "DSPvUnitedScholars",
+      "filename": "clip_Keaghn_Turnover_73e9e955.mp4",
+      "url": "/media/clips/clip_Keaghn_Turnover_73e9e955.mp4",
+      "category": "Turnover",
+      "player": "Keaghn",
+      "notes": "Event at 06:52.56",
+      "start_time": 402.57,
+      "end_time": 415.57,
+      "duration": 13.0,
+      "created_by": "deebo",
+      "categories": [
+        "Turnover"
+      ],
+      "players": [
+        "Keaghn"
+      ]
+    },
+    {
+      "id": "038e1190",
+      "project_id": "proj_c7e814",
+      "project_name": "DSPvUnitedScholars",
+      "filename": "clip_Team_Defensive_Miscue_038e1190.mp4",
+      "url": "/media/clips/clip_Team_Defensive_Miscue_038e1190.mp4",
+      "category": "Defensive Miscue",
+      "player": "Unassigned / Team Play",
+      "notes": "Event at 06:44.59",
+      "start_time": 394.6,
+      "end_time": 407.6,
+      "duration": 13.0,
+      "created_by": "deebo",
+      "categories": [
+        "Defensive Miscue"
+      ],
+      "players": [
+        "Unassigned / Team Play"
+      ]
+    },
+    {
+      "id": "a2801445",
+      "project_id": "proj_c7e814",
+      "project_name": "DSPvUnitedScholars",
+      "filename": "clip_Kiante_Turnover_a2801445.mp4",
+      "url": "/media/clips/clip_Kiante_Turnover_a2801445.mp4",
+      "category": "Turnover",
+      "player": "Kiante",
+      "notes": "Event at 05:55.10",
+      "start_time": 345.1,
+      "end_time": 358.1,
+      "duration": 13.0,
+      "created_by": "deebo",
+      "categories": [
+        "Turnover"
+      ],
+      "players": [
+        "Kiante"
+      ]
+    },
+    {
+      "id": "7796e8a3",
+      "project_id": "proj_c7e814",
+      "filename": "clip_Aaron_Shot_Made_7796e8a3.mp4",
+      "url": "/media/clips/clip_Aaron_Shot_Made_7796e8a3.mp4",
+      "category": "Shot Made",
+      "player": "Aaron",
+      "notes": "Event at 17:37.53",
+      "start_time": 1047.53,
+      "end_time": 1060.53,
+      "duration": 13.0,
+      "created_by": "deebo",
+      "categories": [
+        "Shot Made"
+      ],
+      "players": [
+        "Aaron"
+      ]
+    },
+    {
+      "id": "182e2790",
+      "project_id": "proj_c7e814",
+      "filename": "clip_Sam_Shot_Made_182e2790.mp4",
+      "url": "/media/clips/clip_Sam_Shot_Made_182e2790.mp4",
+      "category": "Shot Made",
+      "player": "Sam",
+      "notes": "Event at 14:23.64",
+      "start_time": 854.65,
+      "end_time": 866.65,
+      "duration": 12.0,
+      "created_by": "deebo",
+      "categories": [
+        "Shot Made"
+      ],
+      "players": [
+        "Sam"
+      ]
+    },
+    {
+      "id": "c4b23506",
+      "project_id": "proj_c7e814",
+      "filename": "clip_Chase_Rennie_Shot_Missed_c4b23506.mp4",
+      "url": "/media/clips/clip_Chase_Rennie_Shot_Missed_c4b23506.mp4",
+      "category": "Shot Missed",
+      "player": "Chase Rennie",
+      "notes": "Event at 14:23.64",
+      "start_time": 854.65,
+      "end_time": 866.65,
+      "duration": 12.0,
+      "created_by": "deebo",
+      "categories": [
+        "Shot Missed"
+      ],
+      "players": [
+        "Chase Rennie"
+      ]
+    },
+    {
+      "id": "86e593c2",
+      "project_id": "proj_c7e814",
+      "filename": "clip_Turnover_86e593c2.mp4",
+      "url": "/media/clips/clip_Turnover_86e593c2.mp4",
+      "category": "Turnover",
+      "player": "Chase Hearns",
+      "notes": "Event at 00:29.79",
+      "start_time": 20.8,
+      "end_time": 32.8,
+      "duration": 12.0,
+      "created_by": "deebo",
+      "categories": [
+        "Turnover"
+      ],
+      "players": [
+        "Chase Hearns"
+      ]
+    },
+    {
+      "id": "cca64f77",
+      "project_id": "proj_c7e814",
+      "filename": "clip_Jumpball_cca64f77.mp4",
+      "url": "/media/clips/clip_Jumpball_cca64f77.mp4",
+      "category": "Jumpball",
+      "player": "Aaron",
+      "notes": "Event at 00:18.21",
+      "start_time": 9.22,
+      "end_time": 21.22,
+      "duration": 12.0,
+      "created_by": "deebo",
+      "categories": [
+        "Jumpball"
+      ],
+      "players": [
+        "Aaron"
+      ]
+    }
+  ],
+  "reels": [
+    {
+      "id": "reel_a5222b23",
+      "title": "Aaron",
+      "description": "",
+      "clip_ids": [
+        "cca64f77",
+        "7796e8a3"
+      ],
+      "created_by": "deebo",
+      "created_at": 1790277167
+    }
+  ],
+  "rosters": [
+    {
+      "name": "DSP2033",
+      "players": [
+        "Aaron",
+        "Keaghn",
+        "Ray",
+        "Kiante",
+        "Mitch",
+        "Langston",
+        "Chase H",
+        "Chase R",
+        "Jaxson",
+        "Sam",
+        "DJ"
+      ],
+      "logo_filename": "logo_DSP2033_878636.jpg",
+      "logo_url": "/media/logos/logo_DSP2033_878636.jpg"
+    },
+    {
+      "name": "test",
+      "players": [
+        "test"
+      ],
+      "logo_filename": "logo_test_7fe290.jpg",
+      "logo_url": "/media/logos/logo_test_7fe290.jpg"
+    }
+  ],
+  "player_pics": {
+    "Aaron": {
+      "filename": "player_Aaron_149662.jpg",
+      "url": "/media/player_pics/player_Aaron_149662.jpg"
+    }
+  }
+}
